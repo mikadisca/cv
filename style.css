@@ -144,6 +144,10 @@ main{
     header{
         width: 100%;
     }
+    header p{
+        font-size: 1rem;
+        max-width: 280px;
+    }
     main{
         display: none;
     }
